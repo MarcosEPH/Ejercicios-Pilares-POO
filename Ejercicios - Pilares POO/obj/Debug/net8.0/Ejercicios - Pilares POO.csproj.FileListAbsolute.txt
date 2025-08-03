@@ -1,0 +1,14 @@
+D:\Ejercicios - Pilares POO\bin\Debug\net8.0\Ejercicios - Pilares POO.exe
+D:\Ejercicios - Pilares POO\bin\Debug\net8.0\Ejercicios - Pilares POO.deps.json
+D:\Ejercicios - Pilares POO\bin\Debug\net8.0\Ejercicios - Pilares POO.runtimeconfig.json
+D:\Ejercicios - Pilares POO\bin\Debug\net8.0\Ejercicios - Pilares POO.dll
+D:\Ejercicios - Pilares POO\bin\Debug\net8.0\Ejercicios - Pilares POO.pdb
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.AssemblyInfoInputs.cache
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.AssemblyInfo.cs
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.csproj.CoreCompileInputs.cache
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.dll
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\refint\Ejercicios - Pilares POO.dll
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.pdb
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\Ejercicios - Pilares POO.genruntimeconfig.cache
+D:\Ejercicios - Pilares POO\obj\Debug\net8.0\ref\Ejercicios - Pilares POO.dll
